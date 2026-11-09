@@ -3,7 +3,7 @@
 Student at Albert School building quant, data and AI projects — from storage engines in C to neural pricers in Python.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASRIDK&show_icons=true&theme=transparent" alt="ASRIDK's GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ASRIDK&show_icons=true&theme=transparent" alt="ASRIDK's GitHub stats" />
 </a>
 
 ## 🧰 Skills
